@@ -124,7 +124,8 @@ import {
       iconBg: "#E6DEDD",
       date: "July 2021 - September 2024",
       points: [
-        "Conducted real-time PLC testing on MCUs for high performance drives to control the motors and actuators, programming Modbus communication for precise system inputs and outputs. ",
+       "Conducted real-time PLC testing on MCUs for high performance drives to control the motors and actuators, programming Modbus communication for precise system inputs and outputs. ",
+       "Analyzed Functional Safety (FS) standards and Safety Integrity Levels (SIL) for high-performance drives, ensuring compliance with IEC 61508/61511.", 
        "Developed and modified Python scripts to automate the migration of test cases from Excel to Jama Software, ensuring seamless integration and data accuracy."],
     },
     {
