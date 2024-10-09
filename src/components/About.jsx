@@ -51,13 +51,12 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
       >
-       I am a sophomore at UC San Diego, majoring in Electrical Engineering with a 
+       I am a Junior at UC San Diego, majoring in Electrical Engineering aimimg to pursue
        specialization in Machine Learning and Controls. My passion lies in coding, building, and 
        delving into the intricacies of autonomous robots. Actively driven to advance my skills
-       and knowledge in this domain, I am actively seeking research opportunities that align 
-       with my interests in the development of autonomous robot systems. My enthusiasm for learning
-       is unwavering, and I am committed to honing my engineering skills and expanding my
-       expertise to contribute meaningfully to this dynamic field.
+       and knowledge in this domain, I am actively seeking research and internship opportunities that align 
+       with my interests. My enthusiasm for learning is unwavering, and I am committed to honing
+       my engineering skills and expanding my expertise to contribute meaningfully to this dynamic field.
 
       </motion.p>
       <div className='mt-20 flex flex-wrap gap-10'>

@@ -118,14 +118,14 @@ import {
   
   const experiences = [
     {
-      title: "Engineering Intern",
+      title: "Firmware Engineer",
       company_name: "Eaton Coorporation",
       icon: eaton2,
       iconBg: "#E6DEDD",
-      date: "November 2021 - January 2022",
+      date: "July 2021 - September 2024",
       points: [
-        "Developed control-oriented models for various vehicle sub-systems, such as battery management,  vehicle dynamics, torque production, motor control, and thermal/HVAC. ",
-       " Collaborated with firmware engineers to seamlessly integrate, test, and calibrate developed algorithms in the company's vehicle fleet, optimizing performance"],
+        "Conducted real-time PLC testing on MCUs for high performance drives to control the motors and actuators, programming Modbus communication for precise system inputs and outputs. ",
+       "Developed and modified Python scripts to automate the migration of test cases from Excel to Jama Software, ensuring seamless integration and data accuracy."],
     },
     {
       title: "Team Captain",
